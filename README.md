@@ -1,2 +1,1 @@
-# company_site
-Website source of Cloud . INI Limited
+# Source of company website
