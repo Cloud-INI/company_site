@@ -1,38 +1,38 @@
-baseURL = "https://cloud-dot-ini.co.uk/"
+baseURL = "http://cloud-dot-ini.co.uk/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Cloud . INI"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+# [Languages.fr]
+# contentDir = "content/french"
+# home = "Accueil"
+# languageCode = "fr-fr"
+# languageName = "Fr"
+# weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 7
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
+# [[menu.main]]
+# URL = "blog"
+# name = "Blog"
+# weight = 6
+# [[menu.main]]
+# URL = "pricing"
+# name = "Pricing"
+# weight = 5
+# [[menu.main]]
+# URL = "team"
+# name = "Team"
+# weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
@@ -46,17 +46,17 @@ URL = "about"
 name = "About Us"
 weight = 1
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Authors of Cloud . INI"
+description = "params description"
 google_analitycs_id = ""
 logo = "images/logo.png"
 post_share = true
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+# [params.map]
+# enable = true
+# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+# map_latitude = "51.5223477"
+# map_longitude = "-0.1622023"
+# map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -86,19 +86,19 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
+link = "https://www.facebook.com/Cloud-INI-102503178043411/"
+# [[params.social]]
+# icon = "ti-twitter-alt"
+# link = "#"
+# [[params.social]]
+# icon = "ti-youtube"
+# link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+link = "https://www.linkedin.com/company/cloud-ini/"
+# [[params.social]]
+# icon = "ti-dribbble"
+# link = "#"
+# [[params.social]]
+# icon = "ti-pinterest"
+# link = "#"
