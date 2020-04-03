@@ -3,12 +3,12 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: If you like what you see, or you just lonely, contact us!
-  form_action: "#" #contact form works with https://formspree.io
+  content: For any inquiries, email us!
+  form_action: "https://formspree.io/mrgabypn" #contact form works with https://formspree.io
 
   contact_details:
-    - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info: "London, UK, Planet Earth"
+    # - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
+    #   info: "London, UK"
 
     # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
     #   info : "Phone: +07923254225"

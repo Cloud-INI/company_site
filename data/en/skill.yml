@@ -1,26 +1,27 @@
 ################################# Skill ##################################
 skill:
-  enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : We know everything!
-  image : images/about/company-growth.webp
-  skill_item :
+  enable: true
+  title: Our Skills
+  subtitle: We’ve skilled in wide range of web and Other digital market tools.
+  content: 
+  image: images/about/company-growth.webp
+  skill_item:
     # skill item loop
-    - name :  Business Development
-      percent : 90%
+    - name: Cloud Development
+      percent: 90%
 
     # skill item loop
-    - name :  Analysis
-      percent : 70%
+    - name: Infrastructure as a Code
+      percent: 100%
 
     # skill item loop
-    - name :  Design
-      percent : 80%
-
-    - name :  IOS Development
-      percent : 95%
+    - name: Site Reliability Engineering
+      percent: 90%
 
     # skill item loop
-    - name :  Andriod Development
-      percent : 75%
+    - name: Test Drive Development
+      percent: 95%
+
+    # skill item loop
+    - name: Agile Project Management and Development
+      percent: 90%
