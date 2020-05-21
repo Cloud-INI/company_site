@@ -19,7 +19,7 @@ feature:
       # feature item loop
     - title: Implementation
       icon: ti-harddrives # themify icon pack : https://themify.me/themify-icons
-      content: As a final step in the cycle we develop your application also making sure that we maintain good test coverage.
+      content: As a final step in the cycle we develop your application according to requirements using high standards of continuous and test driven development
 
       # feature item loop
     - title: Maintenance
