@@ -2,26 +2,26 @@
 skill:
   enable: true
   title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: 
+  subtitle: We are skilled in wide range of web and other digital tools.
+  content:
   image: images/about/company-growth.webp
   skill_item:
     # skill item loop
-    - name: Cloud Development
-      percent: 90%
-
-    # skill item loop
-    - name: Infrastructure as a Code
+    - name: Agile Project Management and Development
       percent: 100%
 
     # skill item loop
-    - name: Site Reliability Engineering
-      percent: 90%
+    - name: Microservice architecture
+      percent: 100%
 
     # skill item loop
-    - name: Test Drive Development
+    - name: Containerisation
       percent: 95%
 
     # skill item loop
-    - name: Agile Project Management and Development
-      percent: 90%
+    - name: Infrastructure as a Code
+      percent: 95%
+
+    # skill item loop
+    - name: Site Reliability Engineering
+      percent: 95%

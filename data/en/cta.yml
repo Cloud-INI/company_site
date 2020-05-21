@@ -1,11 +1,11 @@
 ############################# call to action ##############################
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "We rock, like seriously."
+  enable: true
+  bg_image: "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp: "images/backgrounds/bg-white-wall.webp"
+  title: "Great Quality & Incredible Features"
+  content: "More than 100 years of combined experience."
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: "Start a project with us"
+    link: "#contact"

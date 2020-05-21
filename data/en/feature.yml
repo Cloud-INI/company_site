@@ -3,25 +3,25 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: We are Cloud Consultancy
-  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title: An accustomed team of professionals
+  content: "We are a bunch of likeminded professionals, who worked together for years, covering the software development life cycle from planning to running and maintaining it in production."
   feature_item:
     # feature item loop
-    - title: SEO Optimized
-      icon: ti-world # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Analysis
+      icon: ti-clipboard # themify icon pack : https://themify.me/themify-icons
+      content: Based on your inputs we plan the basic project approach and conduct product feasibility study in the economical, operational and technical areas.
 
       # feature item loop
-    - title: Easy Customization
-      icon: ti-panel # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Design
+      icon: ti-pencil # themify icon pack : https://themify.me/themify-icons
+      content: Having specified the requirements we will create one or more design specification, which we ask you to review to make sure we captured your ideas.
 
       # feature item loop
-    - title: SEO Optimized
-      icon: ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Implementation
+      icon: ti-harddrives # themify icon pack : https://themify.me/themify-icons
+      content: As a final step in the cycle we develop your application also making sure that we maintain good test coverage.
 
       # feature item loop
-    - title: Easy Customization
-      icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Maintenance
+      icon: ti-cloud # themify icon pack : https://themify.me/themify-icons
+      content: We also offer Site Reliabilty Engineering services, where our experienced engineers maintain your application and its infrastructure.

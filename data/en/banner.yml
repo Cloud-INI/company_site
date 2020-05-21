@@ -4,8 +4,8 @@ banner:
   bg_image_webp: "images/backgrounds/hero-area.webp"
   bg_image: "images/backgrounds/hero-area.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
-  title: "Experience the new reality"
-  content: "New reality MUST BE EXPERIENCED, DA YA UNDERSTAND?"
+  title: "We will take you to the Clouds!"
+  content: "Remove the restrictions of your IT systems by utilising various Cloud technologies."
   button:
     enable: true
     label: "Explore Us"
