@@ -1,10 +1,10 @@
-baseURL = "http://cloud-dot-ini.co.uk/"
+baseURL = "https://cloudini.co"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Cloud . INI"
+title = "Cloudini"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
@@ -28,28 +28,32 @@ weight = 7
 [[menu.main]]
 URL = "skills"
 name = "Skills"
-weight = 3
-# [[menu.main]]
-# URL = "team"
-# name = "Team"
-# weight = 4
+weight = 4
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 5
 # [[menu.main]]
 # URL = "portfolio"
 # name = "Portfolio"
 # weight = 3
 [[menu.main]]
-URL = "services"
-name = "Service"
+URL = "feature"
+name = "Features"
 weight = 2
-# [[menu.main]]
-# URL = "about"
-# name = "About Us"
-# weight = 1
+[[menu.main]]
+URL = "services"
+name = "Services"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About Us"
+weight = 1
 [params]
-author = "Authors of Cloud . INI"
-description = "You IT solutions"
+author = "Authors of Cloudini"
+description = "From the Cloud to your fingertips"
 google_analitycs_id = "UA-162804735-1"
-logo = "images/logo.png"
+logo = "images/cloudini_logo.png"
 post_share = true
 # [params.map]
 # enable = true
@@ -83,19 +87,19 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-# preloader = "images/logo.png"
+preloader = "images/preload.png"
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/cloudini/"
 [[params.social]]
 icon = "ti-facebook"
-link = "https://www.facebook.com/Cloud-INI-102503178043411/"
-# [[params.social]]
-# icon = "ti-twitter-alt"
-# link = "#"
+link = "https://www.facebook.com/cloudinidev"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/Cloudinidev"
 # [[params.social]]
 # icon = "ti-youtube"
 # link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "https://www.linkedin.com/company/cloud-ini/"
 # [[params.social]]
 # icon = "ti-dribbble"
 # link = "#"

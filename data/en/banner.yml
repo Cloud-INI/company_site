@@ -4,9 +4,9 @@ banner:
   bg_image_webp: "images/backgrounds/hero-area.webp"
   bg_image: "images/backgrounds/hero-area.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
-  title: "We will take you to the Clouds!"
-  content: "Remove the restrictions of your IT systems by utilising various Cloud technologies."
+  title: "From the Cloud to your fingertips"
+  content: "Cloudini was founded to bridge a gap between the independent contractor model and the big consultancies. We provide a solution to startups and SMEs that is more cost effective than building teams from contractors and without the commitment of hiring permanent staff."
   button:
     enable: true
     label: "Explore Us"
-    link: "#services"
+    link: "#about"

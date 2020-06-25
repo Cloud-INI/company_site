@@ -7,21 +7,21 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
     # skill item loop
-    - name: Agile Project Management and Development
+    - name: Agile Project Management and Software Development
       percent: 100%
 
     # skill item loop
-    - name: Microservice architecture
+    - name: DevOps and Site Reliability Engineering services
       percent: 100%
 
     # skill item loop
-    - name: Containerisation
-      percent: 95%
+    - name: Containerisation and Container Orchestration
+      percent: 100%
 
     # skill item loop
     - name: Infrastructure as a Code
-      percent: 95%
+      percent: 100%
 
     # skill item loop
-    - name: Site Reliability Engineering
-      percent: 95%
+    - name: Solution Architecting
+      percent: 100%

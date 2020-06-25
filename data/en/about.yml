@@ -1,16 +1,24 @@
 ############################# About ###################################
 about:
-  enable: false
+  enable: true
   title: About Us
   about_item:
+    - icon: ti-link # themify icon pack : https://themify.me/themify-icons
+      title: We're Accustomed
+      content: End to end delivery with a team that has years of experience working together.
+
+    - icon: ti-agenda # themify icon pack : https://themify.me/themify-icons
+      title: We're Reliable
+      content: Transparency, communication and commitment to delivery.
+
     - icon: ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-      title: We're Creative
-      content: No, but really!
+      title: We're Effective
+      content: Unbiased approach with our client’s best interest in mind.
 
-    - icon: ti-cup # themify icon pack : https://themify.me/themify-icons
-      title: We're Professional
-      content: We are getting paid... that means we are not amateurs anymore!
+    - icon: ti-user # themify icon pack : https://themify.me/themify-icons
+      title: We're Cooperative
+      content: We work with you to discover the best solution.
 
-    - icon: ti-thought # themify icon pack : https://themify.me/themify-icons
-      title: We're Genius
-      content: And humble...
+    - icon: ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      title: We're Systematic
+      content: We are professional problem solvers and solution designers.

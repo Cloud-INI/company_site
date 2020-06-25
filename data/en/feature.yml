@@ -3,8 +3,9 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: An accustomed team of professionals
-  content: "We are a bunch of likeminded professionals, who worked together for years, covering the software development life cycle from planning to running and maintaining it in production."
+  title: Ready made team with years of experience working together
+  content: "We are a bunch of likeminded professionals, who worked together for years, covering the software development life cycle from planning to running and maintaining it in production. We can scale up your development capabilities on existing or new projects with a lower cost base and faster speed than hiring individual developers or the commitment of job security to permanent hires. We don’t just build you products to make your company better, our value lasts beyond the code we write."
+  # content: "We are a bunch of likeminded professionals, who worked together for years, covering the software development life cycle from planning to running and maintaining it in production. We are professional problem solvers and solution designers. We can scale up your development capabilities on existing or new projects with a lower cost base and faster speed than hiring individual developers or the commitment of job security to permanent hires. We don’t just build you products to make your company better, our value lasts beyond the code we write."
   feature_item:
     # feature item loop
     - title: Analysis

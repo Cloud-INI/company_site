@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
     # service item loop
-    - name: Cloud Native Application Development
+    - name: Web application and systems development
       icon: ti-cloud # themify icon pack : https://themify.me/themify-icons
       content:
 
